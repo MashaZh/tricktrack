@@ -10,3 +10,5 @@ public class Main {
         tricktrack.game();
     }
 }
+
+//ваодлдлдо
