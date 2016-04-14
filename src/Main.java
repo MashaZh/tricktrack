@@ -10,4 +10,4 @@ public class Main {
         tricktrack.game();
     }
 }
-//тест
+
